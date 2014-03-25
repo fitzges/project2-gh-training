@@ -1,2 +1,2 @@
 adding some text
-addmin some more text
+addmin some more texts
